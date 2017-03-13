@@ -1,0 +1,15 @@
+Orden en que van los elementos:
+1.- Pseudo-elementos
+	Contienen atributos
+2.- Etiquetas <etiqueta>
+	Contienen atributos
+3.- Identificadores
+	Contienen atributos
+4.- Clases
+	Contienen atributos
+5.- Elemento de responive design
+	Contiene atributos
+	(diseño adaptativo)
+	Contiene atributos
+Todos ellos en orden alfabetico.
+Tanto elementos como atributos
